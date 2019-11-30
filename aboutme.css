@@ -1,0 +1,43 @@
+table,tr,td{
+    background-color: lightgray;
+    font-family:Verdana;
+    color: black;
+    border: 1px solid black;
+    padding: 5px;
+    border-collapse: collapse;
+}
+.h{
+    border: 8px aqua;
+    padding: 20px;
+}
+.posisi{
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-top: auto;
+    left: 0;
+    right: 0;
+    top:100px;
+    bottom: 0;
+}
+body{
+    background-image: url(IMG-20191129-WA0007.jpg);
+    background-position: center;
+    background-size: 1400px auto;
+    
+}
+.Kembali{
+    font-family: helvetica;
+    color:cadetblue;
+    text-align: center;
+    cursor: pointer;
+    color:black;
+    background: cadetblue;
+    width: 150px;
+    height: 100px;
+    border-radius: 4px;
+    border: none;
+    padding-top: 5px;
+    margin: auto;
+    margin-top: 20px;

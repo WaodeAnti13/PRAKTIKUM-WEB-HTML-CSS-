@@ -1,0 +1,41 @@
+.anti{
+    color: whitesmoke;
+    background-color: gray;
+    width: 80%;
+    padding: 80px;
+    font-family: helvetica;
+    font-size: 10px;
+}
+body{
+    background-image: url(IMG-20191129-WA0007.jpg);
+    width: 80%;
+    background-color: rgba(245, 245, 245, 0.548);
+    margin: auto;
+    padding: 120px 80px;
+}
+img{
+    border:3px solid gray;
+    margin: 20px;
+    margin-left: 49px;
+}
+.Kembali{
+    font-family: helvetica;
+    color:cadetblue;
+    text-align: center;
+    cursor: pointer;
+    color:black;
+    background: cadetblue;
+    width: 150px;
+    height: 100px;
+    border-radius: 10px;
+    border: none;
+    padding-top: 5px;
+    margin: auto;
+    margin-top: 20px;
+
+h1{
+    color:black;
+    font-size: 35px;
+    font-family: helvetica;
+    margin:center;
+}
